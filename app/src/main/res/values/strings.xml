@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Authentication base</string>
+    <string name="prefs_file">com.iyr.authenticationbase.PREFERENCE_FILE_KEY</string>
+    <string name="facebook_app_id">473793413894732</string>
+    <string name="fb_login_protocol_scheme">fb473793413894732</string>
+
+
+</resources>
